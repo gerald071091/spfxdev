@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloReact/HelloReactWebPart.js",
+      "manifest": "./src/webparts/helloReact/HelloReactWebPart.manifest.json",
+      "outputPath": "./dist/hello-react-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "HelloReactWebPartStrings": "webparts/helloReact/loc/{locale}.js"
+  }
+}

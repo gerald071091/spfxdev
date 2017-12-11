@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloNoFramework/HelloNoFrameworkWebPart.js",
+      "manifest": "./src/webparts/helloNoFramework/HelloNoFrameworkWebPart.manifest.json",
+      "outputPath": "./dist/hello-no-framework-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "HelloNoFrameworkWebPartStrings": "webparts/helloNoFramework/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hello-no-framework-client-side-solution",
+    "id": "7227681c-ad58-45a2-988c-d561ffbf9d22",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-no-framework.sppkg"
+  }
+}

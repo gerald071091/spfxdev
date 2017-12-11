@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.3.4",
+    "libraryName": "react",
+    "libraryId": "023ddbb2-b478-4503-b4d2-7a88730c1938",
+    "environment": "onprem"
+  }
+}

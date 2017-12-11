@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hello-knockout-client-side-solution",
+    "id": "1049208c-4d96-4076-911f-ee953a458882",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-knockout.sppkg"
+  }
+}

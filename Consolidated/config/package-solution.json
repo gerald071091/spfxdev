@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hello-consolidated-client-side-solution",
+    "id": "4bc02bf2-5827-4da3-99e9-d104e7f32f06",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-consolidated.sppkg"
+  }
+}

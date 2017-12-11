@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-client-side-solution",
+    "id": "023ddbb2-b478-4503-b4d2-7a88730c1938",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react.sppkg"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloConsolidated/HelloConsolidatedWebPart.js",
+      "manifest": "./src/webparts/helloConsolidated/HelloConsolidatedWebPart.manifest.json",
+      "outputPath": "./dist/hello-consolidated-web-part.bundle.js"
+    },
+    {
+      "entry": "./lib/webparts/helloReact/HelloReactWebPart.js",
+      "manifest": "./src/webparts/helloReact/HelloReactWebPart.manifest.json",
+      "outputPath": "./dist/hello-react-web-part.bundle.js"
+    },
+    {
+      "entry": "./lib/webparts/helloKnockout/HelloKnockoutWebPart.js",
+      "manifest": "./src/webparts/helloKnockout/HelloKnockoutWebPart.manifest.json",
+      "outputPath": "./dist/hello-knockout-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "HelloConsolidatedWebPartStrings": "webparts/helloConsolidated/loc/{locale}.js",
+    "HelloReactWebPartStrings": "webparts/helloReact/loc/{locale}.js",
+    "HelloKnockoutWebPartStrings": "webparts/helloKnockout/loc/{locale}.js"
+  }
+}
